@@ -1,3 +1,7 @@
+This repo is desinged to go along with this [Tutorial](https://medium.com/@chaseorleycarter/firebase-login-functionality-from-scratch-with-react-redux-2bf316e5820f).
+
+Make sure to follow the firebase init guide in the tutorial.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
